@@ -1,0 +1,16 @@
+name: lstm-environment
+channels:
+  - conda-forge
+dependencies:
+- requests
+- pandas_datareader
+- matplotlib.pyplot
+- seaborn
+- pandas
+- datetime
+- urllib
+- json
+- os
+- numpy
+- tensorflow
+- sklearn
